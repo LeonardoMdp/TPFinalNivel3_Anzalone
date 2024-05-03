@@ -1,0 +1,5 @@
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Dominio\bin\Release\Dominio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Dominio\bin\Release\Dominio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Dominio\obj\Release\Dominio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Dominio\obj\Release\Dominio.pdb

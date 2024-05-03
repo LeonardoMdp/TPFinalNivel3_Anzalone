@@ -1,0 +1,36 @@
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\obj\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Negocio\obj\Debug\Negocio.pdb

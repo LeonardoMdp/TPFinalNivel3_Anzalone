@@ -1,0 +1,58 @@
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.AssemblyReference.cache
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.FormArticulos.resources
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\Adricum\source\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.FormArticulos.resources
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.CopyComplete
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.Formnuevoarticulo.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.Formnuevoarticulo.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.FormArticulos.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.csproj.CopyComplete
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Debug\Catalogo.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Catalogo.exe.config
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Catalogo.exe
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Catalogo.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Negocio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\bin\Debug\Negocio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.Formnuevoarticulo.resources
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.FormArticulos.resources
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.Properties.Resources.resources
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.csproj.GenerateResource.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.csproj.CopyComplete
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.exe
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Catalogo\obj\Debug\Catalogo.pdb

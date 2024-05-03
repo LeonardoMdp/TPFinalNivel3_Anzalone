@@ -1,0 +1,18 @@
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Dominio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Dominio\obj\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\Curso c# Nivel 2\repos\trabajo Fina Nivel 2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Dominio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Dominio\obj\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel2_Anzalone\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Dominio\bin\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Dominio\obj\Debug\Dominio.dll
+C:\Users\Adricum\Desktop\TPFinalNivel3_Anzalone\Dominio\obj\Debug\Dominio.pdb

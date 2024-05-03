@@ -1,0 +1,16 @@
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Catalogo.exe.config
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Catalogo.exe
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Catalogo.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Dominio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Negocio.dll
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Dominio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\bin\Release\Negocio.pdb
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.csproj.AssemblyReference.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.Formnuevoarticulo.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.FormArticulos.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.Properties.Resources.resources
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.csproj.GenerateResource.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.csproj.CopyComplete
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.exe
+C:\Users\Adricum\Desktop\08 trabajo Fina Nivel 2 con filtro validado\trabajo Fina Nivel 2\Catalogo\obj\Release\Catalogo.pdb
