@@ -15,6 +15,7 @@ namespace WebApplicationNivel3
             if(Session["Usuario"] != null)
             {
                 Usuario usuario = (Usuario)Session["Usuario"];
+                lblNombreLogeado.Text = ((Usuario)(Session["Usuario"])).Email;
                 ImagenAvatar.ImageUrl = "~/Imagenes/" + usuario.ImagendePerfil;
                 
             }

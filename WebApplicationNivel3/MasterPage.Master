@@ -11,6 +11,13 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-H9BwHJg7aX9VghkkK9fKMNP+So19qXSOzyw+VQ4m6ph26YymQ1vYsU4rexc8hW1v3gl7zpBpSWdAixGhOgGu6w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        .nombrelog{
+            text-align:start;
+                color:white;
+                font-style:italic;
+        }
+    </style>
 </head>
 <body>
 
@@ -19,7 +26,7 @@
         <nav class="navbar navbar-expand-lg bg-white ">
             <div class="container-fluid">
                 <a class="navbar-brand" href="Inicio.aspx">
-                    <img src="Img/proyecto.PNG" alt="Bootstrap" width="200" height="65">
+                    <img src="https://onedrive.live.com/embed?resid=76F7CBF19E31A865%211252&authkey=%21AKdw5-z7H3clGUM&width=256" alt="Bootstrap" width="200" height="65">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -38,6 +45,10 @@
                         <li class="nav-item">
                             <a class="nav-link active" href="Mi Perfil.aspx">Mi Perfil</a>
                         </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link active" href="MisFavoritos.aspx">Mis Favoritos</a>
+                        </li>
                         <%} %>
 
                         <%if (Session["usuario"] != null && ((Dominio.Usuario)Session["usuario"]).TipoUsuario == Dominio.TipoUsuario.admin)
@@ -50,7 +61,7 @@
                         <li class="nav-item">
                             <a class="nav-link Active" href="formularioDeArticulos.aspx">Formulario De Articulos</a>
                         </li>
-                          <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link Active" href="Detalle.aspx">Detalle</a>
                         </li>
 
@@ -76,6 +87,10 @@
                     <asp:Button Text="Salir" ID="btnSalir" OnClick="btnSalir_Click" CssClass="btn btn-dark me-2 m-auto" runat="server" />
                     <% } %>
 
+                    <div>
+                        <asp:Label Text="" ID="lblNombreLogeado" CssClass="form-label nombrelog" runat="server" />
+
+                    </div>
                     <asp:Image ID="ImagenAvatar" Style="height: 55px; width: 55px; border-radius: 50%" runat="server" />
 
                 </div>

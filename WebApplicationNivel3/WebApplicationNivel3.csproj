@@ -73,12 +73,11 @@
     <Content Include="Inicio.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Mi Perfil.aspx" />
+    <Content Include="MisFavoritos.aspx" />
     <Content Include="Registro.aspx" />
     <Content Include="remerasInternacionales.aspx" />
     <Content Include="Filtro.aspx" />
     <Content Include="formularioDeArticulos.aspx" />
-    <Content Include="Img\logo_Curly-ai-brush-removebg-a194rtgi.svg" />
-    <Content Include="Img\proyecto.PNG" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -123,6 +122,13 @@
     </Compile>
     <Compile Include="Mi Perfil.aspx.designer.cs">
       <DependentUpon>Mi Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MisFavoritos.aspx.cs">
+      <DependentUpon>MisFavoritos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MisFavoritos.aspx.designer.cs">
+      <DependentUpon>MisFavoritos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Registro.aspx.cs">
       <DependentUpon>Registro.aspx</DependentUpon>
@@ -182,9 +188,7 @@
       <Name>Negocio</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Imagenes\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

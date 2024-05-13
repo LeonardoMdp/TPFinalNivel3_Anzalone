@@ -6,13 +6,15 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Dominio;
 using Negocio;
+
+
 namespace WebApplicationNivel3
 {
     public partial class Detalle : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string id = Request.QueryString["id"] != null ? Request.QueryString["id"].ToString() : ""; 
+            string id = Request.QueryString["id"] != null ? Request.QueryString["id"].ToString() : "";
 
             Articulo seleccionado = new Articulo();
             ArticuloNegocio negocio = new ArticuloNegocio();
@@ -21,6 +23,16 @@ namespace WebApplicationNivel3
 
             imgDetalle.ImageUrl = seleccionado.Imagen;
             labelDetalle.Text = seleccionado.Descripcion;
+        }
+
+        protected void btnAgregaraFavoritos_Click(object sender, EventArgs e)
+        {
+            FavoritosNegocio negocio = new FavoritosNegocio();
+
+            int idsession = ((Usuario)Session["Usuario"]).Id;
+            string idArtFav = Request.QueryString["id"] != null ? Request.QueryString["id"].ToString() : "";
+            negocio.agregarFavorito(idArtFav, idsession);
+            Response.Redirect("MisFavoritos.aspx", false);
         }
     }
 }

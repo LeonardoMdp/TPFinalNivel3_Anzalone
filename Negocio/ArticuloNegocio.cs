@@ -182,6 +182,11 @@ namespace Negocio
 
         }
 
+        public object Filtrar(string campo, string criterio, string filtro)
+        {
+            throw new NotImplementedException();
+        }
+
         public void ModificarconSp(Articulo nuevo)
         {
             Acceso_a_datos datos = new Acceso_a_datos();
