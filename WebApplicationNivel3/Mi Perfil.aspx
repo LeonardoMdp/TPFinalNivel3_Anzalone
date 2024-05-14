@@ -7,7 +7,35 @@
             font-size: 12px;
         }
     </style>
+
+   <script>
+       function validar() {
+           const txtApellido = document.getElementById("txbApellido");
+           const txtNombre = document.getElementById("txbNombre");
+
+           if (txtApellido.value == "") {
+               txtApellido.classList.add("is-invalid");
+               txtApellido.classList.remove("is-valid");
+           } else {
+               txtApellido.classList.remove("is-invalid");
+               txtApellido.classList.add("is-valid");
+           }
+
+           if (txtNombre.value == "") {
+               txtNombre.classList.add("is-invalid");
+               txtNombre.classList.remove("is-valid");
+           } else {
+               txtNombre.classList.remove("is-invalid");
+               txtNombre.classList.add("is-valid");
+           }
+
+           return !(txtApellido.value == "" || txtNombre.value == "");
+       }
+   </script>
+
+
 </asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
 
@@ -22,14 +50,14 @@
             <div>
                 <div class="mb-3">
                     <asp:Label Text="Nombre" CssClass="form-label" runat="server" />
-                    <asp:TextBox ID="txbNombre" CssClass="form-control" runat="server" />
-                    <asp:RequiredFieldValidator ErrorMessage="Debe Ingresar Un Nombre" CssClass="validacion" ControlToValidate="txbNombre" runat="server" />
+                    <asp:TextBox ID="txbNombre" ClientIDMode="Static" CssClass="form-control" runat="server" />
+                    <%--                    <asp:RequiredFieldValidator ErrorMessage="Debe Ingresar Un Nombre" CssClass="validacion" ControlToValidate="txbNombre" runat="server" />--%>
                 </div>
             </div>
             <div>
                 <div class="mb-3">
                     <asp:Label Text="Apellido" CssClass="form-label" runat="server" />
-                    <asp:TextBox ID="txbApellido" CssClass="form-control" runat="server" />
+                    <asp:TextBox ID="txbApellido" ClientIDMode="Static" CssClass="form-control" runat="server" />
                 </div>
             </div>
 
@@ -47,7 +75,7 @@
         </div>
         <div class="row">
             <div class="col-md-4">
-                <asp:Button Text="Guardar" ID="btnGuardar" OnClick="btnGuardar_Click" CssClass="btn btn-danger mt-3" runat="server" />
+                <asp:Button Text="Guardar" ID="btnGuardar" OnClientClick="return validar()" OnClick="btnGuardar_Click" CssClass="btn btn-danger mt-3" runat="server" />
                 <%--  <asp:Button Text="Regeresar" ID="btnRegresar" OnClick="btnRegresar_Click" CssClass="btn btn-danger mt-3" runat="server" />--%>
             </div>
         </div>

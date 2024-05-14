@@ -13,8 +13,8 @@ namespace WebApplicationNivel3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
-            if(! IsPostBack)
+
+            if (!IsPostBack)
             {
                 if (Session["Usuario"] != null)
                 {
@@ -29,7 +29,7 @@ namespace WebApplicationNivel3
                 }
             }
 
-            
+
 
         }
 
@@ -38,9 +38,9 @@ namespace WebApplicationNivel3
             try
             {
 
-                Page.Validate();
-                if (!Page.IsValid)
-                    return;
+                //Page.Validate();
+                //if (!Page.IsValid)
+                //    return;
 
                 UsuarioNegocio negocio = new UsuarioNegocio();
                 Usuario usuario = (Usuario)Session["Usuario"];
@@ -52,8 +52,12 @@ namespace WebApplicationNivel3
                     usuario.ImagendePerfil = "perfil-" + usuario.Id + ".jpg";
                 }
 
-                usuario.User = txbNombre.Text;
-                usuario.Apellido = txbApellido.Text;
+                if(!(txbNombre.Text == "" || txbApellido.Text == ""))
+                    {
+                    usuario.User = txbNombre.Text;
+                    usuario.Apellido = txbApellido.Text;
+
+                }
                 usuario.FechaDeNacimiento = DateTime.Parse(txbFechaNacimiento.Text);
 
                 negocio.Actualizar(usuario);
